@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas/Songs.json",
+  "type": "AnnotationPage",
+  "label": "Songs",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas/Songs-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH sings Gonna See My Long-Haired Babe",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2752.552948,2883.082449"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas/Songs-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH chants.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3028.728014"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas/Songs-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH chants.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3116.963198"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas/Songs-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH chants",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3157.820952"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas/Songs-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH sings Shove it over",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/t86-243/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3251.30449"
+        }
+      }
+    }
+  ]
+}
