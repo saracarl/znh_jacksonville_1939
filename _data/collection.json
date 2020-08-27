@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Zora Neale Hurston&#39;s WPA field recordings in Jacksonville, FL (1939)" ] },
+    "summary": { "en": [ "These three recordings were made by Herbert Halpert during a 1939 Works Project Administration (WPA) trip to record songs and folks stories in Jacksonville, Florida. They are currently held as part of the Florida Memory Project at the Library of Congress. On the recordings, Zora Neale Hurston discusses and performs songs she has collected and responds to questions from Halpert and Carita Corse." ] },
+    "items": [
+    ]
+}
